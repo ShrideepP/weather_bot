@@ -66,7 +66,7 @@ export default function DataTable<TData, TValue>({
   });
   
   return (
-    <div className="w-full relative overflow-x-auto">
+    <div className="w-full relative">
       <div className="flex items-center gap-x-2.5 pb-4">
         <Input
           placeholder="Find subscriber..."
