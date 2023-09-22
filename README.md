@@ -22,9 +22,8 @@ _Chat with Weather Bot_
    - [Running the Bot](#running-the-bot)
    - [Admin Panel](#admin-panel)
 3. [Features](#features)
-4. [Dependencies](#dependencies)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Getting Started
 
